@@ -1,14 +1,14 @@
 {
-  "sender_email": "support-buc@ridewithvia.com",
-  "reply_email": "support-buc@ridewithvia.com",
-  "phone": "470-567-4337",
-  "sender_name": "the Buc Team",
-  "rider_name": "the Buc Rider",
-  "service_name": "the Buc",
+  "sender_email":"support-buc@ridewithvia.com",
+  "reply_email":"support-buc@ridewithvia.com",
+  "phone":"470-567-4337",
+  "sender_name":"the Buc Team",
+  "rider_name":"the Buc Rider",
+  "service_name":"the Buc",
   "area_name": "Buckhead",
-  "area_description": "Buckhead",
-  "price_simple": "$3",
-  "price": "$3 anywhere within the Buckhead service zone and are free to and from the Buckhead and Lenox MARTA stations",
-  "price_description": "Rides are free to and from the Buckhead and Lenox MARTA stations, $3 anywhere within the Buckhead service zone and +1's are $1.50",
-  "referral_amount": ""
+  "area_description":"Buckhead",
+  "price_simple":"$3",
+  "price":"$3 anywhere within the Buckhead service zone and are free to and from the Buckhead and Lenox MARTA stations",
+  "price_description":"Rides are free to and from the Buckhead and Lenox MARTA stations, $3 anywhere within the Buckhead service zone and +1's are $1.50",
+  "referral_amount":""
 }
